@@ -131,3 +131,22 @@ h2 {
   font-weight: bold;
   font-size: 20px;
 }
+
+/*fourth-section*/
+.cta-container {
+  background-color: #3882f6;
+  margin: 128px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  padding: 64px 128px;
+  color: #e5e7eb;
+}
+
+.cta h4 {
+  font-size: 24px;
+}
+
+.cta-button {
+  border: solid #e5e7eb;
+}
