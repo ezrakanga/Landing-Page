@@ -150,3 +150,14 @@ h2 {
 .cta-button {
   border: solid #e5e7eb;
 }
+
+/*fifth-section*/
+.fifth-section {
+  background-color: #1f2937;
+  color: white;
+  padding: 32px;
+}
+
+.footer {
+  text-align: center;
+}
