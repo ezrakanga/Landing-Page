@@ -8,6 +8,8 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+
+/*first-section*/
 .first-section {
   background-color: #1f2937;
   color: white;
@@ -73,4 +75,40 @@ img {
   margin-left: 32px;
   margin-right: 128px;
   width: 560px;
+}
+
+
+/*second-section*/
+h2 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  text-align: center;
+  margin: 32px;
+}
+
+.second-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 128px;
+  margin-right: 128px;
+  margin-bottom: 128px;
+  width: auto;
+}
+
+.square-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 160px;
+  text-align: center;
+}
+
+.square {
+  border: #3882f6 solid;
+  width: 160px;
+  height: 160px;
+  border-radius: 8px;
 }
