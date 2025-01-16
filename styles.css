@@ -6,6 +6,7 @@
 
 body {
   font-family: Roboto, sans-serif;
+  font-size: 16px;
 }
 
 
@@ -111,4 +112,22 @@ h2 {
   width: 160px;
   height: 160px;
   border-radius: 8px;
+}
+
+/*third-section*/
+.third-section {
+  background-color: #e5e7eb;
+  padding: 128px 256px;
+}
+
+.quote {
+  font-size: 36px;
+  color: #1f2937;
+  font-style: italic;
+}
+
+.author {
+  text-align: end;
+  font-weight: bold;
+  font-size: 20px;
 }
