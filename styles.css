@@ -72,10 +72,14 @@ h1 {
   border: none;
 }
 
-img {
-  margin-left: 32px;
-  margin-right: 128px;
+.image {
   width: 560px;
+  margin-bottom: 128px;
+  margin-right: 128px;
+  background-color: #e5e7eb73;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
@@ -148,7 +152,7 @@ h2 {
 }
 
 .cta-button {
-  border: solid #e5e7eb;
+  border: 2px solid #e5e7eb;
 }
 
 /*fifth-section*/
